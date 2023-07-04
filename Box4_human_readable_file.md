@@ -5,12 +5,15 @@ Les "human readable files" (fichiers lisibles par les humains) sont des fichiers
 Il existe plusieurs façons de déterminer si un fichier est un "human readable file". Voici quelques approches courantes :
 
 1. Extension de fichier :
+   
    Les fichiers avec certaines extensions, telles que .txt, .csv, .html, .xml, .json, sont souvent associés à des fichiers lisibles par les humains. L'extension du fichier peut donner une indication sur le type de contenu qu'il contient.
 
 2. Inspection visuelle du contenu :
+   
    En ouvrant le fichier avec un éditeur de texte, vous pouvez visualiser le contenu et déterminer s'il est principalement constitué de texte lisible, de caractères alphanumériques et de symboles couramment utilisés. Si vous pouvez lire et comprendre le contenu sans conversion spéciale, il s'agit probablement d'un fichier lisible par les humains.
 
 3. Commandes de détection de type de fichier :
+   
    Les systèmes d'exploitation offrent souvent des commandes pour déterminer le type d'un fichier. Par exemple, la commande `file` sous Linux peut vous donner des informations sur le type de contenu du fichier.
 
 Voici comment gérer les fichiers lisibles par les humains en utilisant quelques commandes de base avec des exemples :
