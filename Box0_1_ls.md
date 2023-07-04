@@ -59,3 +59,9 @@ Voici quelques options couramment utilisées avec la commande "ls" :
    ```
 
 Ce ne sont que quelques exemples d'utilisation de la commande "ls". Il existe de nombreuses autres options disponibles pour personnaliser la sortie en fonction de vos besoins. Vous pouvez consulter la page de manuel de "ls" en utilisant la commande `man ls` pour obtenir plus d'informations sur ses fonctionnalités et options.
+
+## Documentation
+
+https://man7.org/linux/man-pages/man1/ls.1.html
+
+https://fr.wikipedia.org/wiki/Ls
