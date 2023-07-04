@@ -1,6 +1,6 @@
 ## Dashed Filename
 
-Note préliminaire : Il est important de noter que l'utilisation de noms de fichiers commençant par un tiret ("-") peut entraîner des problèmes et des erreurs avec certaines commandes Unix/Linux, car elles peuvent interpréter le nom de fichier comme une option de ligne de commande. 
+**Note préliminaire : Il est important de noter que l'utilisation de noms de fichiers commençant par un tiret ("-") peut entraîner des problèmes et des erreurs avec certaines commandes Unix/Linux, car elles peuvent interpréter le nom de fichier comme une option de ligne de commande.**
 
 Dans les systèmes d'exploitation Unix ou Linux, travailler avec des noms de fichier contenant un tiret nécessite une certaine attention. Dans certains cas, vous devrez manipuler des fichiers commençant par un tiret (-) en tant que premier caractère.En effet, le tiret (-) est généralement utilisé par les commandes pour spécifier des options et des arguments.
 
