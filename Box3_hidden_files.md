@@ -6,7 +6,6 @@ Lorsque vous travaillez avec des fichiers cachés, qui sont des fichiers dont le
    ```
    ls -a
    ```
-   Exemple : `ls -a`
 
    La commande "ls" avec l'option "-a" affiche tous les fichiers, y compris les fichiers cachés. Dans cet exemple, tous les fichiers du répertoire courant, y compris les fichiers cachés, sont affichés.
 
@@ -14,7 +13,6 @@ Lorsque vous travaillez avec des fichiers cachés, qui sont des fichiers dont le
    ```
    ls -a | grep "^\."
    ```
-   Exemple : `ls -a | grep "^\."`
 
    En utilisant la commande "ls" avec l'option "-a" pour afficher tous les fichiers, et en utilisant la commande "grep" avec le motif "^\." (qui signifie commencer par un point), vous pouvez filtrer et afficher uniquement les fichiers cachés.
 
