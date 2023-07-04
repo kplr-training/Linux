@@ -58,3 +58,10 @@ Voici quelques commandes de base pour utiliser SSH avec des exemples :
 
 Ces commandes de base vous permettront de vous connecter, d'exécuter des commandes à distance et de transférer des fichiers en utilisant SSH. N'oubliez pas de remplacer "utilisateur" par votre nom d'utilisateur, "adresse_ip" par l'adresse IP du serveur distant et d'adapter les chemins et noms de fichiers selon vos besoins.
 
+## Documentation
+
+https://en.wikipedia.org/wiki/Secure_Shell
+
+https://man7.org/linux/man-pages/man1/ssh.1.html
+
+
