@@ -2,6 +2,7 @@
 
 La commande `find` est une commande du système d'exploitation qui permet de rechercher des fichiers et des répertoires dans une arborescence de fichiers en fonction de différents critères tels que le nom, le type, la taille, la date de modification, etc. Elle est disponible sur la plupart des systèmes Unix et Linux.
 
+
 Voici quelques exemples de syntaxe de recherche en se basant sur différentes propriétés :
 
 1. Rechercher un fichier par type :
