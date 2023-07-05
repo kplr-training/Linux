@@ -10,6 +10,7 @@
   ```
   commande1 | commande2
   ```
+
   
   La sortie de `commande1` est utilisée comme entrée pour `commande2`. Cela permet de combiner les fonctionnalités de différentes commandes et de les appliquer de manière successive.
 
